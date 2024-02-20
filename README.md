@@ -1,6 +1,5 @@
 ### Hi I'm Serkan 👋
 
-- 🔭 I’m currently working on [Simpra IOS Swift Bootcamp](https://github.com/Protein-Swift-Bootcamp)
 - 🌱 I’m currently learning Swift Programming Language.
 - 👯 I’m looking to collaborate on Projects with Swift.
 - 💬 Ask me about everything that you wonder.
